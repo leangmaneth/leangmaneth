@@ -19,6 +19,12 @@
 - 🔥 Turning ideas into **real-world applications**  
 
 ---
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,typescript,java,spring,python,postgresql,mysql,git,linux" />
+</p>
+
+---
 
 ## 💼 Featured Project (Main Focus)
 ### 🔥 Payroll Management System
@@ -30,26 +36,14 @@
 - Employee Management  
 - Leave Request System  
 - Payroll Calculation  
-- Admin Dashboard  
+- Admin Dashboard ...  
 
 **Tech Used:**
-- Java (Spring Boot)  
-- MySQL  
+- Java & (Spring Boot)  
+- PostgreSQL  
 - Frontend (HTML/CSS/JS/React)  
 
 ---
-
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,python,mysql,mongodb,git,linux" />
-</p>
-
----
-
-## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leangmaneth&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leangmaneth&theme=tokyonight&hide_border=true" />
@@ -75,18 +69,3 @@
 </p>
 
 ---
-
-## ⚡ Developer Mindset
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Current Focus
-```text
-✔ Full-Stack Development
-✔ Backend Engineering (Spring Boot)
-✔ Database Design
-✔ System Architecture
-⬜ Machine Learning (Next Step)
