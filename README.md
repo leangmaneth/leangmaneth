@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Learning-System%20Design-orange?style=for-the-badge" />
 </p>
 
----
-
 
 ## ⚡ About Me
 - 💻 Full-Stack Developer (Frontend + Backend + Database)  
@@ -19,13 +17,10 @@
 - 🚀 Currently improving **backend & architecture skills**  
 - 🔥 Turning ideas into **real-world applications**  
 
----
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,typescript,java,spring,python,postgresql,mysql,git,linux" />
 </p>
-
----
 
 
 ## 🌐 Connect
@@ -38,4 +33,7 @@
   </a>
 </p>
 
----
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/leangmaneth/leangmaneth/blob/output/github-contribution-grid-snake.svg)
+
