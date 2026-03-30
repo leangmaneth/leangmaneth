@@ -12,6 +12,7 @@
 
 ---
 
+
 ## ⚡ About Me
 - 💻 Full-Stack Developer (Frontend + Backend + Database)  
 - 🧠 Focused on **building scalable systems**  
@@ -26,37 +27,6 @@
 
 ---
 
-## 💼 Featured Project (Main Focus)
-### 🔥 Payroll Management System
-🔗 https://github.com/leangmaneth/payroll-management-system  
-
-> A real-world system designed to manage employees, payroll, and workflows.
-
-**Core Features:**
-- Employee Management  
-- Leave Request System  
-- Payroll Calculation  
-- Admin Dashboard ...  
-
-**Tech Used:**
-- Java & (Spring Boot)  
-- PostgreSQL  
-- Frontend (HTML/CSS/JS/React)  
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leangmaneth&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Live Animation)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leangmaneth/leangmaneth/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect
 <p align="center">
