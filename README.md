@@ -18,9 +18,46 @@
 - 🔥 Turning ideas into **real-world applications**  
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,typescript,java,spring,python,postgresql,mysql,git,linux" />
-</p>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3> Frontend Development</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" alt="Frontend Skills" />
+      </p>
+    </td>
+    
+<td width="50%" align="center" valign="top">
+  <h3> Backend Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" alt="Backend Skills" />
+  </p>
+  
+</td>
+
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3> Database</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Database Skills" />
+      </p>
+
+
+  <td width="50%" align="center" valign="top">
+  <h3> Tools & Platforms</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" alt="Tools and Platforms" />
+  </p>
+  
+</td>
+
+
+  </tr>
+</table>
+
+
 
 
 ## 🌐 Connect
